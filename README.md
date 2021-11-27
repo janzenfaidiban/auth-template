@@ -1,0 +1,2 @@
+# auth-template
+Auth Template
